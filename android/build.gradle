@@ -16,6 +16,7 @@ android {
     namespace "io.github.muntashirakon.crypto.spake2"
     compileSdkVersion 35
     buildToolsVersion "35.0.0"
+    ndkVersion '28.2.13676358'
 
     defaultConfig {
         minSdkVersion 1
